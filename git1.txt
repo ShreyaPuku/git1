@@ -1,0 +1,9 @@
+git status
+git init
+git config --global user.name "Sheya Roy"
+git config --global user.email "shreya.b.roy@capgemini.com"
+git config user.email shreya.b.roy@capgemini.com
+git add
+git commit -m ""
+git log
+Git diff <filename>
